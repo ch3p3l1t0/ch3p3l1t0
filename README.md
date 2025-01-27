@@ -1,3 +1,11 @@
+<h1 align="center"><b>Hi , I'm Jose Alejandro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola!+Soy+Jose+Alejandro+Velez+Sanabria;Desarrollador+Web+y+Software;Técnico+y+Futuro+Ingeniero+de+Sistemas;Apasionado+por+el+aprendizaje+continuo;Empático+y+Líder+en+equipo;Siempre+en+busca+de+soluciones+creativas;Entusiasta+del+Cloud+Gaming+y+la+Ciberseguridad;">
+  </a>
+</p>
+
 # 💫 About Me:
 Sobre mí<br><br>¡Hola! 👋 Soy Jose Alejandro, un joven desarrollador web y de software de 23 años 🖥️, apasionado por la tecnología y siempre en busca de nuevos retos 🚀. Originario de Colombia 🇨🇴, tengo un fuerte deseo de aprender 📚 y sobresalir en el mundo del desarrollo. Mi objetivo es participar en proyectos innovadores que me permitan seguir creciendo tanto profesional como personalmente 💡.<br><br>Me especializo en crear soluciones eficientes y optimizadas ⚙️, y disfruto trabajar tanto en el frontend como en el backend 🛠️. Siempre estoy abierto a colaborar en equipos diversos 🤝, buscando aportar valor y encontrar maneras creativas de resolver problemas 🎯.<br><br>Si estás buscando a alguien con energía 💥, compromiso y una gran motivación para aprender y contribuir 💪, ¡me encantaría ser parte de tu próximo proyecto! 🌟
 
